@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Compiling lox programs"
+javac -d out com/CI/lox/*.java
